@@ -41,7 +41,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CelloKit",
-            url: "https://github.com/prefmeios/CelloKit/releases/tag/v1.0.0/CelloKit.xcframework.zip",
+            url: "https://github.com/prefmeios/CelloKit/releases/tag/1.0.0/CelloKit.xcframework.zip",
             checksum: "38f6be250e035ab66319f36fb1690f2c3bc39f7a4a5722d41addaafbebd7b4f2"),
     ]
 )
